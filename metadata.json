@@ -1,0 +1,8 @@
+
+{
+  "name": "Global Clock Sync",
+  "description": "Premium world clock application with dynamic theming, offline support, and PWA capabilities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
